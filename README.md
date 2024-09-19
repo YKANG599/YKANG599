@@ -22,6 +22,7 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_32x32.png" style="margin-left: 10px;">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_32x32.png" style="margin-left: 10px;">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/haskell/haskell_32x32.png" style="margin-left: 10px;">
+<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"  height="32" style="margin-left: 10px;">
 <span/>
 
 <br/>
@@ -41,7 +42,6 @@
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman"  height="32" style="margin-left: 10px;">
 <img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="webstorm"  height="32" style="margin-left: 10px;">
 <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" height="32"  style="margin-left: 10px;">
-<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"  height="32" style="margin-left: 10px;">
 <span/>
 <br/>
 
