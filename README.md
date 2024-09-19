@@ -5,9 +5,9 @@
 
 🚀 I specialize in **data science, artificial intelligence, and full stack development**.
 
-🚀 I graduated with a Bachelor's in Statistics from **Queen's University** in Canada in 2024 and was an exchange student at the **National University of Singapore** in 2023.
+🚀 I graduated with a Bachelor's in Statistics from **Queen's University** in Canada in 2024 and I was an exchange student at **National University of Singapore** in 2023.
 
-🚀 I am currently a full-time Master student in **Data Science and Artificial Intelligence** at the University of Waterloo, and I was a recipient of the **Vector Scholarship in AI** from the **Vector Institute**.
+🚀 I am currently a full-time Master student in **Data Science and Artificial Intelligence** at University of Waterloo, and I was a recipient of the **Vector Scholarship in AI** from the **Vector Institute**.
 
 <br/>
 
